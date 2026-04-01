@@ -2,7 +2,7 @@
 
 A Flutter app skeleton for running native binaries on Android devices. This app provides a generic framework that can be configured to execute any binary with custom configuration files and command-line arguments.
 
-![Flutter Binary Executor Screenshot](lib/screenshots/binaryRunnerScreenshot.jpg)
+<img src="lib/screenshots/binaryRunnerScreenshot.jpg" alt="Flutter Binary Executor Screenshot" width="350">
 
 ## Features
 
